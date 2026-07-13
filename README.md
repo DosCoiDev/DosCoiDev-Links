@@ -8,7 +8,8 @@ Official links, demos, and project information for DosCoiDev.
 
 - [Watch the Demo on YouTube](https://www.youtube.com/watch?v=cmfZhRoZPfc)
 - [Follow DosCoiDev on X](https://x.com/DosCoiDev)
-- [DosCoiDev Links Repository](https://github.com/DosCoiDev/DosCoiDev-Links)
+- [Read the Project Overview](./DosCoiDev_Overview.pdf)
+- [Read the Technical Project README](./DosCoiDev_README.md)
 - [Contact by Email](mailto:doscoidev@gmail.com)
 
 ## About
